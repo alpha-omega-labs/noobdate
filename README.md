@@ -6,6 +6,6 @@
  
  state of GenesisL1 mainnet on 1844444 block height 
 
-+ aphoton -> el1
-+ community_tax: 25%
-+ onchain proposal deposit amount: 10000 L1
++ Min. coin unit: aphoton -> el1
++ Community fee: 2% -> 25%
++ Onchain proposal deposit amount: 50000000L1 -> 10000L1
